@@ -15,7 +15,7 @@ CareerCraft is a modern web application built to support portfolio building, car
 This project showcases a real-life application of full-stack development combined with data visualization, aligning with my professional background and passions.
 
 ## 👤 About Me
-Hi — I’m Sandiswa Mkhonto, a data analyst at Statistics South Africa with a diploma in Mathematical Sciences. I’m passionate about mathematics education (teaching Grades 8–12), data visualization, and creating engaging digital content (especially food & pet vlogs).  
+Hi — I’m Hendry Mike Mkhonto, a data analyst at Statistics South Africa with a diploma in Mathematical Sciences. I’m passionate about mathematics education (teaching Grades 8–12), data visualization, and creating engaging digital content (especially food & pet vlogs).  
 Skills include: RStudio, Python, SQL, SAS, MATLAB, Microsoft Office, and Power BI.  
 I volunteer as a Peer Helper and am devoted to working hard and helping others succeed.
 
