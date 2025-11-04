@@ -51,7 +51,4 @@ url link : https://career-craft-9fb33b22.base44.app
 - Educators leveraging analytics for career mentoring  
 - Creators (food, pets, lifestyle) building a portfolio  
 
-## 📦 Getting Started
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/yourusername/career-craft.git
+
