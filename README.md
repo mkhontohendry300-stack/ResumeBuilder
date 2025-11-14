@@ -21,7 +21,7 @@ I volunteer as a Peer Helper and am devoted to working hard and helping others s
 
 # 🔗 Live Application:
 
-url link : https://career-craft-9fb33b22.base44.app
+url link :[ https://career-craft-9fb33b22.base44.app](https://career-craft-e7c25017.base44.app/)
 
 ## 🧰 Tech Stack
 - Front-End: HTML5, CSS3, JavaScript ( React ) 
